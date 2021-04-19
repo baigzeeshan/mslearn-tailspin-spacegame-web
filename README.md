@@ -1,3 +1,9 @@
+# <<<<<<< HEAD
+
+[![Build Status](https://dev.azure.com/datanextsolutions/Space%20game%20-%20web%20-%20pipeline/_apis/build/status/baigzeeshan.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/datanextsolutions/Space%20game%20-%20web%20-%20pipeline/_build/latest?definitionId=1&branchName=master)
+
+> > > > > > > b4b6869d9478dc69884910dee06ba78bd6407961
+
 # Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
